@@ -1,0 +1,9 @@
+* ArriVAL
+
+Yet Another Classical planning plan validator written in modern Common Lisp
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/guicho271828/ArriVAL.git |
+| commit  | e75b4e9                                         |
+| systems | ArriVAL                                         |
+|---------+-------------------------------------------------|
